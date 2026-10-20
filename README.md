@@ -4,45 +4,26 @@
   <i>Curious mind. Creative thinker.</i>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<h3>👩‍💻 About Me</h3>
+<p>A coding enthusiast passionate about technology and creating useful solutions.</p>
 
-### 👩‍💻 About Me
-A coding enthusiast passionate about technology and creating useful solutions.
 
-</td>
-<td width="50%" valign="top">
+<h3>🎯 My Goal</h3>
+<p></p>Aspiring App Developer 📱 <br> 
+Building technology that solves real-world problems.</p>
 
-### 🎯 My Goal
-Aspiring App Developer 📱  
-Building technology that solves real-world problems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Skills & Learning
-- HTML, CSS & JavaScript
-- C & Java
-- Data Structures & Algorithms
+<h3>🚀 Skills & Learning</h3>
+- HTML, CSS & JavaScript<br>
+- C & Java<br>
+- Data Structures & Algorithms<br>
 - Git & GitHub
 
-</td>
-<td width="50%" valign="top">
-
-### 💡 Interests
-- App & Web Development
-- Coding & Innovation
-- Real-World Problem Solving
+<h3>💡 Interests</h3>
+- App & Web Development<br>
+- Coding & Innovation<br>
+- Real-World Problem Solving<br>
 - Building meaningful projects
-
-</td>
-</tr>
-</table>
-
+<br><br>
 <p align="center">
   <b>✨ Learn • Create • Innovate ✨</b>
 </p>
