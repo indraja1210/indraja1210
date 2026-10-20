@@ -1,29 +1,58 @@
-<h1 align="center">Beyond the Lines of Code!!</h1>
+<h1 align="center">Beyond the Lines of Code</h1>
 
 <p align="center">
   <i>Curious mind. Creative thinker.</i>
 </p>
 
-<h3>👩‍💻 About Me</h3>
-<p>A coding enthusiast passionate about technology and creating useful solutions.</p>
+<br>
 
+<table>
+<tr>
+<td>
 
-<h3>🎯 My Goal</h3>
-<p></p>Aspiring App Developer 📱 <br> 
-Building technology that solves real-world problems.</p>
+### 👩‍💻 About Me
 
-<h3>🚀 Skills & Learning</h3>
-- HTML, CSS & JavaScript<br>
-- C & Java<br>
-- Data Structures & Algorithms<br>
+Coding enthusiast passionate about technology
+and creating useful solutions.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🎯 My Goal
+
+Aspiring App Developer 📱
+
+Building technology that solves real-world problems.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🚀 Skills & Learning
+
+- HTML, CSS & JavaScript
+- C & Java
+- Data Structures & Algorithms
 - Git & GitHub
 
-<h3>💡 Interests</h3>
-- App & Web Development<br>
-- Coding & Innovation<br>
-- Real-World Problem Solving<br>
-- Building meaningful projects
-<br><br>
+</td>
+</tr>
+<tr>
+<td>
+
+### 💡 Interests
+
+- App & Web Development
+- Coding & Innovation
+- Real-World Problem Solving
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <b>✨ Learn • Create • Innovate ✨</b>
+  <b>Learn • Create • Innovate ✨</b>
 </p>
