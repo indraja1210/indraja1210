@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Beyond the Lines of Code!!</h1>
 
-<!--
-**indraja1210/indraja1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Curious mind. Creative thinker.</i>
+</p>
 
-Here are some ideas to get you started:
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+A coding enthusiast passionate about technology and creating useful solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 My Goal
+Aspiring App Developer 📱  
+Building technology that solves real-world problems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Skills & Learning
+- HTML, CSS & JavaScript
+- C & Java
+- Data Structures & Algorithms
+- Git & GitHub
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Interests
+- App & Web Development
+- Coding & Innovation
+- Real-World Problem Solving
+- Building meaningful projects
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>✨ Learn • Create • Innovate ✨</b>
+</p>
